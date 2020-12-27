@@ -6,4 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonSeong1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cms9586)](https://solved.ac/cms9586)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cms9586)](https://solved.ac/cms9586)
